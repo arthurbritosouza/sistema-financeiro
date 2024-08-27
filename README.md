@@ -20,21 +20,16 @@ Bem-vindo ao Sistema Financeiro! Este aplicativo foi desenvolvido para ajudar no
 
 ### Backend
 - **PHP (Laravel)**: Framework para lidar com a lógica de negócio, rotas e processos backend.
-- **Livewire**: Para construção de componentes dinâmicos e interativos no Laravel.
-
+=
 ### Banco de Dados
 - **MySQL**: Banco de dados relacional para armazenar dados de usuários e registros financeiros.
-
-### DevOps e Deploy
-- **Docker**: Containerização para garantir um ambiente de desenvolvimento e deployment consistente.
 
 ## 🚀 Como Começar
 
 ### Pré-requisitos
-- Docker instalado na sua máquina.
 - Composer para gerenciar dependências PHP.
-- Node.js para gerenciar dependências do frontend.
-
+- Php 8.3.10
+- Laravel 10.46.0
 ### Instalação
 
 1. Clone o repositório:
